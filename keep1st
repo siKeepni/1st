@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Halaman Web Sederhana</title>
+</head>
+<body>
+
+    <header>
+        <h1>Selamat Datang!</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Beranda</a></li>
+                <li><a href="#">Tentang Kami</a></li>
+                <li><a href="#">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Ini Adalah Konten Utama</h2>
+        <p>Ini adalah paragraf pertama.</p>
+        <p>Ini adalah paragraf kedu
